@@ -30,4 +30,4 @@ $ flag.py --number 4
 ##############
 ```
 
-The --number argument should be even integer number.
+The --number argument should be an even integer number.
