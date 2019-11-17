@@ -1,6 +1,6 @@
 # Japanese Flag Drawing
 
-Drawing a japanese flag with help of the symbols '*', '0', '#', ' '. (ASCII graphics with help of [taxicab geometry](https://en.wikipedia.org/wiki/Taxicab_geometry).
+Drawing a japanese flag with help of the symbols '*', '0', '#', ' ' (ASCII graphics with help of [taxicab geometry](https://en.wikipedia.org/wiki/Taxicab_geometry)).
 
 ## Common requirements
 * The input N shall be an integer even number
